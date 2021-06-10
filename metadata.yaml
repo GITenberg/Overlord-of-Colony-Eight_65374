@@ -1,6 +1,9 @@
 _repo: Overlord-of-Colony-Eight_65374
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Overlord of Colony 8
+covers:
+- cover_type: archival
+  image_path: 65374-h/images/cover.jpg
 creator:
   author:
     agent_name: Silverberg, Robert
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28358
     wikipedia: http://en.wikipedia.org/wiki/Robert_Silverberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65374#Overlord-of-Colony-Eight
 gutenberg_issued: '2021-05-18'
 gutenberg_type: Text
 identifiers:
